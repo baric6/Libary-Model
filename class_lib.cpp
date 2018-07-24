@@ -1,5 +1,5 @@
 /*
-Joe Hollon
+Baric
 cis 1202
 july 15 2018
 Baric Library
